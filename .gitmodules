@@ -1,0 +1,20 @@
+[submodule "pquic/pquic-ns3"]
+	path = pquic/pquic-ns3
+	url = https://github.com/p-quic/pquic-ns3.git
+	branch = exp3
+[submodule "pquic/pquic"]
+	path = pquic/pquic
+	url = https://github.com/p-quic/pquic.git
+	branch = master
+[submodule "picoquic/picoquic-ns3"]
+	path = picoquic/picoquic-ns3
+	url = https://github.com/p-quic/pquic-ns3.git
+	branch = exp3-picoquic-current
+[submodule "picoquic/picoquic-original"]
+	path = picoquic/picoquic-original
+	url = https://github.com/qdeconinck/picoquic.git
+	branch = picoquic-ns3
+[submodule "picoquic/picoquic-fixed"]
+	path = picoquic/picoquic-fixed
+	url = https://github.com/qdeconinck/picoquic.git
+	branch = picoquic-fixed-ns3
